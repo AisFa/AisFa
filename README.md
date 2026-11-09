@@ -145,7 +145,7 @@ Software Architecture
 
 <div align="center">
 
-<a href="www.linkedin.com/in/fatima-aissat-98919a338">
+<a href="https://www.linkedin.com/in/fatima-aissat-98919a338">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

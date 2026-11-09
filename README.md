@@ -1,84 +1,164 @@
-# Hi, I'm AISSAT 👋
+<!-- BANNER -->
 
-### Computer Science Master's Student | AI & Software Development
+<div align="center">
 
-I'm a Computer Science Master's student specializing in **Distributed Applications, Artificial Intelligence and Security (ARIAS)** at the University of Orléans, France.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6C63FF&height=200&section=header&text=Hello,%20World!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20a%20Computer%20Science%20Student&descSize=17&descAlignY=55" width="100%" />
 
-I'm passionate about software development, artificial intelligence, and exploring new technologies. I enjoy building applications, experimenting with different approaches, and solving technical challenges.
+Hi, I'm AisFa 👋
 
-🎓 **Education:** Master's Degree in Computer Science – ARIAS
-📍 **Location:** France
-💼 **Looking for:** A 4–6 month internship starting April 2027.
+AI Enthusiast | Software Developer | Computer Science Student
 
----
+<p>
+  <img src="https://img.shields.io/badge/University-University%20of%20Orléans-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Degree-Master%20ARIAS-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-France-red?style=for-the-badge"/>
+</p>
 
-## 🛠️ Technical Skills
+</div>
 
-**Programming Languages**
+👨‍💻 About Me
 
-- Python, Java, C, C++, Dart, HTML, CSS
+I'm a Master's student in Computer Science, specializing in Distributed Applications, Artificial Intelligence and Security (ARIAS) at the University of Orléans, France.
 
-**Artificial Intelligence**
+I'm passionate about technology, AI and software engineering. I enjoy exploring new concepts, developing applications and turning ideas into practical solutions.
 
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- PyTorch, Stable-Baselines3
+🎓 Master's Degree in Computer Science – ARIAS
 
-**Development**
+🧠 Interested in AI, Machine Learning and Deep Learning
 
-- Spring MVC, Flutter, Symfony
-- SQL, SQLite, MongoDB
-- REST APIs
+💻 Interested in backend and full-stack development
 
-**Tools & Technologies**
+🌱 Always learning and exploring new technologies
 
-- Git & GitHub
-- Docker
-- Linux
-- Maven
-- VirtualBox, VMware
+💼 Looking for a 4–6 month internship starting April 2027
 
----
+🧰 Tech Stack
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🧠 Deep Learning – Malware Detection
+Programming Languages
 
-Development of a Deep Learning model for malware detection using Python and PyTorch.
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,html,css" />
 
-### 🐍 Reinforcement Learning – Snake
+AI & Data Science
 
-Implementation of an autonomous Snake agent using Proximal Policy Optimization (PPO).
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-### 📱 ExplorezVotreVille
+Frameworks & Development
 
-A cross-platform application for discovering cities, local attractions and weather information using Flutter and Dart.
+<img src="https://skillicons.dev/icons?i=spring,flutter,symfony,docker,maven" />
 
-### ☕ MangaAnimeNews
+Tools & Environment
 
-A web application developed with Java and Spring Boot, integrating manga and anime information.
+<img src="https://skillicons.dev/icons?i=git,github,linux,mysql,sqlite,vscode,idea" />
 
-### 🧬 Parallel Clustering – PAM
+</div>
 
-Implementation and evaluation of a parallel PAM clustering algorithm using C++ and MPI.
+🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 🌱 Currently Exploring
+🧠 Malware Detection
 
-- Generative AI and Large Language Models (LLMs)
-- RAG architectures and AI agents
-- Backend and Full Stack Development
-- Software Engineering and DevOps
+Deep Learning model for malware detection using Python and PyTorch.
 
----
+Focus: Machine Learning · Neural Networks
 
-## 📫 Let's Connect!
+</td>
+<td width="50%">
 
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/fatima-aissat-98919a338)
-- **Email:** [Email](mailto\:aissatf923@gmail.com)
+🐍 Snake AI
 
----
+Autonomous Snake agent trained using Proximal Policy Optimization (PPO).
 
-⭐ Thanks for visiting my profile!
+Focus: Reinforcement Learning · Python
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+📱 ExplorezVotreVille
+
+Cross-platform application for discovering cities, attractions and weather information.
+
+Focus: Flutter · Dart · SQLite · APIs
+
+</td>
+<td width="50%">
+
+☕ MangaAnimeNews
+
+Web application for exploring manga and anime information.
+
+Focus: Java · Spring Boot · Thymeleaf
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🧬 Parallel PAM Clustering
+
+Parallel implementation of the PAM clustering algorithm.
+
+Focus: C++ · MPI · Parallel Computing
+
+</td>
+<td width="50%">
+
+💻 More projects coming soon...
+
+Always experimenting with new ideas and technologies!
+
+</td>
+</tr>
+</table>
+
+📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AisFa&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AisFa&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AisFa&theme=tokyonight&hide_border=true" />
+
+</div>
+
+🌱 Currently Exploring
+
+Generative AI & Large Language Models
+
+RAG architectures & AI Agents
+
+Backend Development & REST APIs
+
+Docker, CI/CD & DevOps
+
+Software Architecture
+
+🤝 Let's Connect
+
+<div align="center">
+
+<a href="www.linkedin.com/in/fatima-aissat-98919a338">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aissatf923@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+Thanks for visiting my profile! ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6C63FF&height=100&section=footer" width="100%"/>
+
+</div>
